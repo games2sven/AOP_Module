@@ -1,0 +1,2 @@
+include ':app', ':aop_module'
+rootProject.name='AOP'
